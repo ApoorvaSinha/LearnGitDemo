@@ -1,1 +1,2 @@
 This is 2.txt file
+Some files Added to the current version
